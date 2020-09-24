@@ -2,7 +2,7 @@ package com.test;
 
 import com.code.ED;
 import com.exception.FileException;
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import java.io.IOException;
 
